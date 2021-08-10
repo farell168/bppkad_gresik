@@ -52,7 +52,7 @@ return [
             // 'username' => env('DB_USERNAME', 'sql6430168'),
             // 'password' => env('DB_PASSWORD', 'JQWyGzJtAj'),
             'host' => 'sql6.freemysqlhosting.net',
-            'port' => '3306',
+            'port' => '3306', 
             'database' => 'sql6430168',
             'username' => 'sql6430168',
             'password' => 'JQWyGzJtAj',
